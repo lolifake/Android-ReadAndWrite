@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ArticleActivityTheme" parent="Theme.Musical">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+    </style>
+</resources>
+    <!--解决背景图片和状态栏的颜色融合问题-将状态栏颜色设置为透明-->
